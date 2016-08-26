@@ -10,7 +10,7 @@ BEGIN
 	  print 'UPDATE'
 	  ELSE
 	  Print 'DONT UPDATE'
-END
+END--
 ELSE
 BEGIN
  PRint 'UPDATE'
